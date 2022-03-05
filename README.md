@@ -1,5 +1,6 @@
 # USAGE!
-Add this to your .bashrc to decrypt ro13 in the shell```
+Add this to your .bashrc to decrypt ro13 in the shell
+```
 alias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"
 ```
 # EXAMPLE
