@@ -1,6 +1,5 @@
 # USAGE!
-you can add the this to your bashrc like me if you have altism or something
-```sh
+Add this to your .bashrc to decrypt ro13 in the shell```sh
 alias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"
 ```
 # EXAMPLE
